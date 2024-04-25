@@ -1,4 +1,5 @@
 class Solution(object):
+    
     def isValid(self, s):
         stack = []
     for i in myStr:
